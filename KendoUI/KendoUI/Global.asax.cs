@@ -17,6 +17,7 @@ namespace KendoUI
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            // Has configured with Azure environment
         }
     }
 }
